@@ -8,8 +8,6 @@ https://www.hackthebox.eu/
 All Challenge Writeups are password protected with the corresponding flag.  
 **Active** machines writeups are protected with the corresponding root flag.
 
-![hpys_htb_writeups logo](./images/htb_writeup.png)  
-
 # Disclaimer
 
 It is totally forbidden to unprotect (remove the password) and distribute the pdf files of active machines, if I detect any misuse will be reported immediately to the HTB admins.  
